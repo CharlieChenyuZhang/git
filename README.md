@@ -1,5 +1,5 @@
 # git
-# CSC209 Assignment1
+CSC209 Assignment1
 # how to run it:
 # step one: download the repo
 # step two: go to the terminal and use cd to the directory where you can find two files called compute_hash.c and hash_functions.c
